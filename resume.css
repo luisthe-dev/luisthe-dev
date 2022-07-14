@@ -1,0 +1,195 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400;500;600;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.body {
+  width: 90%;
+  margin: 30px auto;
+  min-height: 95vh;
+  background: #ffffff;
+}
+
+.body h1 {
+  font-weight: 700;
+  font-size: 5rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  display: block;
+  margin: 5px 24px 0;
+  color: #126796;
+}
+
+.body h2 {
+  font-family: "Edu SA Beginner", sans-serif;
+  font-size: 1.6rem;
+  margin: 0px 36px;
+}
+
+.bodyFlex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.bodyFlex .shortInfo {
+  width: 25%;
+  background: #c0d8e50c;
+  padding: 30px;
+  height: 100%;
+}
+
+.bodyFlex .shortInfo h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 25px 0 9px;
+  text-transform: uppercase;
+  color: #126796;
+}
+
+.bodyFlex .shortInfo h4 {
+  font-size: 1.2rem;
+  margin: 0 6px;
+  color: #126796;
+}
+
+.bodyFlex .shortInfo p {
+  font-size: 1.1rem;
+  margin: 3px 0;
+  color: #686868;
+  line-height: 25px;
+  width: 85%;
+}
+
+.bodyFlex .shortInfo .contactFlex {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.bodyFlex .shortInfo .contactFlex > i {
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+  background: #126796;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+.bodyFlex .shortInfo .contactFlex a {
+  color: #2394d1;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 01.2rem;
+  display: inline-block;
+  margin: 0 4px;
+  font-family: "Edu SA Beginner", sans-serif;
+}
+
+.bodyFlex .shortInfo .contactFlex a:hover {
+  text-decoration: underline;
+}
+
+.bodyFlex .shortInfo .contactFlex span {
+  font-size: 0.7rem;
+  align-self: flex-start;
+  margin-top: 4px;
+  color: #686868;
+}
+
+.bodyFlex .basicInfo {
+  width: 75%;
+  padding: 30px;
+}
+
+.bodyFlex .basicInfo h3 {
+  font-size: 2.4rem;
+  margin: 20px 0;
+  color: #126796;
+}
+
+.bodyFlex .basicInfo .basicInfoBlocks {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 8px 12px;
+}
+
+.bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 8px 20px;
+  border-left: 3px solid #126796;
+  padding-left: 20px;
+  width: 80%;
+}
+
+.bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock h4 {
+  font-size: 1.6rem;
+  margin: 0 3px;
+  color: #126796;
+}
+
+.bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock h5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-synthesis: 1.1rem;
+  color: #353535;
+  width: 100%;
+  margin: 8px 0;
+}
+
+.bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock h5 span {
+  font-size: 1.3rem;
+}
+
+.bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock .basicInfoBlockInfo {
+  padding-left: 20px;
+}
+
+.bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock .basicInfoBlockInfo p {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #686868;
+  margin: 6px 0;
+}
+
+.bodyFlex .basicInfo .skillFlex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.bodyFlex .basicInfo .skillFlex p {
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: #929292;
+  border-radius: 4px;
+  padding: 8px 12px;
+  color: #ffffff;
+  margin: 6px 8px;
+}
