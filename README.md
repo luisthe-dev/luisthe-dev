@@ -1,6 +1,6 @@
 ## Lazy Luis Saying "Hi 👋"
 
-`console.log('Welcome To Luis' Space )`
+`console.log("Welcome To Luis' Space")`
 
 ---
 
