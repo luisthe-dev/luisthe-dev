@@ -1,6 +1,7 @@
 ## Lazy Luis Saying "Hi 👋"
 
 `console.log("Welcome To Luis' Space")`
+`echo "Welcome To Luis' Space"`
 
 ---
 
