@@ -35,9 +35,9 @@
 
 ![Lazy Luis' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisthe-dev&langs_count=8&theme=tokyonight)
 
-![Lazy Luis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisthe-dev)
+![Lazy Luis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazyluis)
 
-![wakatime](https://wakatime.com/badge/user/b72f951a-4499-4f7f-bbcc-aa01b10f07b8.svg?style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/b72f951a-4499-4f7f-bbcc-aa01b10f07b8.svg)](https://wakatime.com/@b72f951a-4499-4f7f-bbcc-aa01b10f07b8)
 
 <!--
 **lazy-luis/lazy-luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
