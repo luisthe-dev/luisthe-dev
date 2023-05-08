@@ -29,13 +29,13 @@
 - Twitter: [Twitter Profile](https://twitter.com/lazy_blackLuis)
 
 ## Now, For A Few Stats ...... (Suspensful Drumroll)
-![Lazy Luis' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lazy-luis&theme=dark&hide_border=true&ring=3ACEDD&stroke=3ACEDD&fire=3ACEDD&sideNums=DD2727&currStreakNum=3ACEDD&currStreakLabel=DD2727&sideLabels=69B4DD&dates=DDB831)
+![Lazy Luis' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisthe-dev&theme=dark&hide_border=true&ring=3ACEDD&stroke=3ACEDD&fire=3ACEDD&sideNums=DD2727&currStreakNum=3ACEDD&currStreakLabel=DD2727&sideLabels=69B4DD&dates=DDB831)
 
-![Lazy Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lazy-luis&show_icons=true&theme=tokyonight)
+![Lazy Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=luisthe-dev&show_icons=true&theme=tokyonight)
 
-![Lazy Luis' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-luis&langs_count=8&theme=tokyonight)
+![Lazy Luis' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisthe-dev&langs_count=8&theme=tokyonight)
 
-![Lazy Luis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazyluis)
+![Lazy Luis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisthe-dev)
 
 ![wakatime](https://wakatime.com/badge/user/b72f951a-4499-4f7f-bbcc-aa01b10f07b8.svg?style=for-the-badge)
 
