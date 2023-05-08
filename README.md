@@ -35,7 +35,7 @@
 
 ![Lazy Luis' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisthe-dev&langs_count=8&theme=tokyonight)
 
-[![Lazy Luis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisthe___dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Lazy Luis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@luisthe___dev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/b72f951a-4499-4f7f-bbcc-aa01b10f07b8.svg)](https://wakatime.com/@b72f951a-4499-4f7f-bbcc-aa01b10f07b8)
 
