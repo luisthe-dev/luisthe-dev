@@ -1,11 +1,11 @@
-## Lazy Luis Saying "Hi 👋"
+## Luis Saying "Hi 👋"
 
 `console.log("Welcome To Luis' Space")`
 `echo "Welcome To Luis' Space"`
 
 ---
 
-### Name's actually Divine, But I Prefer Luis. I'm A Full Stack Web Developer (Yeah, And I'm Still **Lazy** :stuck_out_tongue_winking_eye: ). Brief List on What I Use .... :computer:
+### Name's actually Divine, But I Prefer Luis. I'm A Full Stack Developer. Brief List on What I Use .... :computer:
 
 - HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30">
 - CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30">
