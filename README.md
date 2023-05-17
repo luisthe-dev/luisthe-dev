@@ -26,7 +26,7 @@
 
 ## Talk ?
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/divinegiftadesiyan/)
-- Twitter: [Twitter Profile](https://twitter.com/lazy_blackLuis)
+- Twitter: [Twitter Profile](https://twitter.com/luisthe-dev)
 
 ## Now, For A Few Stats ...... (Suspensful Drumroll)
 ![Lazy Luis' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisthe-dev&theme=dark&hide_border=true&ring=3ACEDD&stroke=3ACEDD&fire=3ACEDD&sideNums=DD2727&currStreakNum=3ACEDD&currStreakLabel=DD2727&sideLabels=69B4DD&dates=DDB831)
