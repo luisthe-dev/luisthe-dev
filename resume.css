@@ -72,6 +72,23 @@
   width: 95%;
 }
 
+.bodyFlex .shortInfo .skillSet {
+  width: 100%;
+  margin: 20px auto;
+}
+
+.bodyFlex .shortInfo .skillSet h4 {
+  color: #328cbd;
+  font-family: "Edu SA Beginner", sans-serif;
+  font-weight: 700;
+  margin: 0;
+}
+
+.bodyFlex .shortInfo .skillSet p {
+  margin: 0 0 12px;
+  font-weight: 600;
+}
+
 .bodyFlex .shortInfo .contactFlex {
   display: flex;
   flex-direction: row;
@@ -171,10 +188,10 @@
 }
 
 .bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock .basicInfoBlockInfo p {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 500;
-  color: #686868;
-  margin: 6px 0;
+  color: #353535;
+  margin: 7px 0;
 }
 
 .bodyFlex .basicInfo .skillFlex {
